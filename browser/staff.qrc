@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/bookmark.png</file>
+    <file>icons/keyboard-left-arrow-button.png</file>
+    <file>icons/keyboard-right-arrow-button.png</file>
+    <file>icons/search (1).png</file>
+  </qresource>
+</RCC>
